@@ -5,3 +5,4 @@
 ## This work was done to create a backend
 ## The db.js file connects with the mongodb
 ## The index.js file connects to the expressjs
+## "get all lessons" -> gets lessons and order
